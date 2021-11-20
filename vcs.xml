@@ -22,9 +22,45 @@
           <option name="url" value="http://103.159.124.162:8888" />
           <option name="userName" value="chengxinhua" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/ebany/medical-manage" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/medical/diagnose-cas" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/medical" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/medical/user-cas" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/medical/doctor-aps" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/mall/mall-center-data-cas" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/medical/patient-aps" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/base/microservice-dependency-parent" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.159.124.162:8888/ebany/user" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace\ebanyWorkSpace\test" />
+    <option name="cloneParentDir" value="E:\workspace\ebanyWorkSpace\base" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
