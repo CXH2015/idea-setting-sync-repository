@@ -1,4 +1,19 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@103.159.124.162:ebany/user.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@103.159.124.162:8888/ebany/user" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\workspace\ebanyWorkSpace" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
