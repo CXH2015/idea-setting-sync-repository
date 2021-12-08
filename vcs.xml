@@ -70,6 +70,10 @@
           <option name="url" value="http://183.242.87.195:8888" />
           <option name="userName" value="chengxinhua" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ebany:30223" />
+          <option name="userName" value="chengxinhua" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace\ebanyWorkSpace\medical" />
