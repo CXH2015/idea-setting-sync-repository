@@ -98,9 +98,13 @@
           <option name="url" value="http://git.ebany:30223/intelligence/ocrservice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alibaba/nacos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace\ebanyWorkSpace\intelligence" />
+    <option name="cloneParentDir" value="E:\workspace\myWorkSpace\nacos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
